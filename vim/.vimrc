@@ -9,7 +9,7 @@ syntax enable                 " Habilita syntax highlighting
 " Interface e Aparência
 " ====================================
 set number                    " Mostra números de linha
-set relativenumber            " Números relativos
+" set relativenumber            " Números relativos
 set showcmd                   " Mostra comando parcial
 set wildmenu                  " Menu de autocompletar
 set wildmode=longest:full,full
